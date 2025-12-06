@@ -6,11 +6,13 @@ This repository contains a step by step walkthrough of how I created a home SIEM
 <h2>Languages and Utilities Used</h2>
 
 - <b>KQL</b> 
-- <b>Microsoft Azure</b> 
+- <b>Microsoft Azure Sentinel</b>
+- <b>Windows Event Viewer</b>
 
-<h2>Virtual Environments Used </h2>
+<h2>Environments Used </h2>
 
 - <b>Windows 10</b>
+- <b>Microsoft Azure</b>
 
 ## Diagram
 ![image](https://github.com/user-attachments/assets/8be59972-ebba-4796-a089-79fd849880e6)
