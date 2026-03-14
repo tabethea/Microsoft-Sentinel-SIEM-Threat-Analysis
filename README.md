@@ -1,4 +1,4 @@
-# SIEM Lab
+# Microsoft-Sentinel-SIEM-Threat Analysis
 
 ## Description
 This repository contains a step by step walkthrough of how I created a home SIEM lab in the cloud using Microsoft Azure. In this lab, I utilized Microsoft Azure to set up a virtual machine and purposefully disabled the firewall, transforming the virtual machine into a honeypot designed to attract and analyze potential attackers. I also configured log forwarding to direct the failed attack attempts to a central repository and connected this repository to a Security Information and Event Management (SIEM) system for further analysis and monitoring. Lastly, i created an attack map that allowed me to see where the attacks are coming from. Running this lab has allowed me to gain hands-on experience with Microsoft Azure, honeypot setup, log management, and SIEM integration.
